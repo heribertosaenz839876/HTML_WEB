@@ -1,0 +1,6 @@
+#miparrafo{color:red; font-family: verdana;}
+li > a{color:aquamarine !important}
+.boton {background-color: blueviolet;}
+
+li > a{color:yellow}
+.boton:hover{background-color: chocolate;}
